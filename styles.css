@@ -1,0 +1,6 @@
+h1{/*Alle h1-Element stylen*/
+    border-bottom: 1px dashed blueviolet;
+    /*Unterm Rand 1xp breit, strichlirt und Schwartz zeichnen*/
+    font-variant: small-caps;
+    /*Schriftart ändern*/
+}
