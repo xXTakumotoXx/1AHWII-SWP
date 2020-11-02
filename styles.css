@@ -1,6 +1,12 @@
 h1{/*Alle h1-Element stylen*/
-    border-bottom: 1px dashed blueviolet;
+    border-bottom: 1px dashed black;
     /*Unterm Rand 1xp breit, strichlirt und Schwartz zeichnen*/
     font-variant: small-caps;
     /*Schriftart ändern*/
+    color: blue
+}
+.date{ 
+      color: orange
+
+
 }
